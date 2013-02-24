@@ -1,0 +1,588 @@
+00:00:01: Birgitte: ”I used to be someone, remember?”
+00:00:06: Birgitte: We must ensure that this country doesn't close itself off, or becomes even more egocentric. 
+00:00:12: Birgitte: ”I have decided to leave the business. 
+I will be back in politics.”
+00:00:16: Kruse: ”I can't see you as part of the Moderate project anymore.”
+00:00:20: Birgitte: ”He kicked me out, goddamn it.”
+00:00:21: Bent: ”Challenge Kruse's leadership. It's the only way you might be able to return.”
+00:00:25: Birgitte: ”If I win the election, will you support me?"
+00:00:28: Jon: "Yes, you can be sure of that."
+00:00:30: Birgitte: ”You're the person I'm looking for.”
+00:00:32: Katrine: ”I'd like to leave.”
+00:00:33: Grethe: ”You shouldn't do it. You're a single parent.”
+00:00:37: Mia: ”The new program manager has already been announced.”
+00:00:39: Alex: ”Torben Friis.”
+00:00:40: Alex: ”I'm a huge fan of your department, I'm looking forward to see it.”
+
+00:00:42: Alex: ”Why is news given so much airtime while the ratings are what they are?
+00:00:46: Alex: ”Why is the new boss still called Torben Friis?”
+00:00:49: Nete: ”Things are going great here.”
+00:00:51: Man: ”59 votes in favor of Jacob Kruse as leader; thereby, he's re-elected as chairman of the party."
+
+00:01:03: Man: ”It's a little rundown and in need of a loving hand. What do you need it for?
+00:01:08: Birgitte: ”There must be a new party.”
+
+Episode:
+ 00:01:15: ”We few, we happy few, we band of brothers... - Shakespeare, Henry V” (written text)
+ 00:01:27: Birgitte: ”Katrine, we only need your balance sheet.”
+ 00:01:31: Katrine: ”The printshop was slightly more expensive than I had anticipated.”
+ 00:01:39: Birgitte: ”27,800 seems very reasonable. I'm flying today.”
+ 00:01:43: Bent: ”It's almost 30,000. You can't pay that on your own.”
+ 00:01:46: Birgitte:  "It was my own decision."
+
+ 00:01:48: Bent: You've given up all your board positions, you're practically unemployed.”
+
+ 00:01:51: Birgitte: ”I'd probably get them back if I ask nicely.”
+ 00:01:53: Bent: ”And will you?”
+ 00:01:57: Birgitte: ”We'll see what I'll do.”
+ 00:02:00: Bent: ”Give that to me.”
+ 00:02:11: Birgitte: ”Then there's the matter of salaries, and we've never discussed cancellation so I transferred 100.000, although it isn't enough for the three month due.”
+ 00:02:16: Katrine: ”I can't accept that.”
+ 00:02:17: Birgitte: ”We shouldn't discuss it.”
+ 00:02:18: Katrine: ”I can leave, I could go to TV1 and get my old job back.”
+ 00:02:21: Birgitte: ”I'll transfer the money tomorrow.”
+ 00:02:24: Ulrik: ”We start with Christiansborg, where a controversial deportation law was discussed for the second time this afternoon. 
+The law arises from a major economic agreement signed between the ruling parties and the Moderates. 
+If the law passes, from now on, illegal immigrants can be expelled for violation of the 'mild violence clause'.”
+ 00:02:43: Bent: ”Happy times. Now you can get thrown out of the fucking country just by giving a slap."
+ 00:02:47: Katrine: ”Why doesn't he explain what the 'mild violence clause' covers? Damn it, Ulrik."
+ 00:02:53: Birgitte: ”Kruse must have a tight grip of the Moderates."
+ 00:02:57: Bent: ”They haven't been asked.”
+ 00:03:00: Birgitte: ”Good. Friends, thanks for putting up a fight. We did our best.”
+ 00:03:10: Katrine: ”You have to be in make-up at 5.30 PM."
+ 00:03:14: Birgitte: ”I'll have to just go and be a good loser on TV1.”
+ 00:03:18: Ulrik: ”Did you lose because you have been out of Denmark too often and lost touch with the nation?"
+ 00:03:24: Birgitte: ”I think coming home from abroad is beneficial for providing a little perspective on our country. The picture they paint of us outside of Denmark isn't always pretty."
+ 00:03:31: Ulrik: ”You're referring here to immigration policy in particular?"
+ 00:03:33: Birgitte: ”Exactly.”
+ 00:03:34: Ulrik: ”Just today, the Moderates came up with a new deportation law for criminal immigrants. What are your thoughts on that?”
+ 00:03:41: Birgitte: ”I think it's a sad day for Denmark. Not everyone may know it, but now we can throw people out of the country for violation of the 'mild violence clause', which comes down to spitting at someone or giving a slap.”
+ 00:03:55: Ulrik: ”What are you going to do about this?”
+ 00:03:56: Birgitte: "I will at least continue to point out that it's wrong. And I also think this law wouldn't have been made if the Danes themselves had been consulted."
+ 00:04:03: Ulrik: ”So you think that the Danes haven't been asked?”
+ 00:04:05: Birgitte: ”Yes, that's what I think. And if I could wish for one thing for our democracy, it'd wish that the people themselves were more in control. Once again, we're talking about laws being passed over all of our heads, rushed through like a thief in the night, and completely planned that way.
+And I can only hope that others who feel the same way, will also say it out loud."
+ 00:04:25: Ulrik: ”The big unavoidable question: what are you going to do now?"
+ 00:04:30: Birgitte: ”Certainly not the presidency of the Moderate Pary.”
+ 00:04:32: Ulrik: ”Nor for any of the other parties?"
+ 00:04:33: Birgitte: ”No, I can rule that out as well.”
+ 00:04:34: Ulrik: ”Those are the last words of Birgitte Nyborg, who thus says farewell and thanks to Danish politics."
+ 00:05:38: ”The country should prevent with laws” (written text, episode title)
+ 00:06:05: ”Party name” (written text)
+ 00:06:11: Torben: ”Good interview with Birgitte Nyborg yesterday. If there is a slight 'however', it'd be that you might well have pressured her a bit more.”
+00:06:19: Ulrik: ”She has just dropped out of politics, she lies down, and you think I should kick her?”
+ 00:06:21: Torben: ”No, not at all, more what her plans are for the future. Will she return to the business world, or what?”
+ 00:06:27: Guy: ”EU, UN or another international top position?”
+ 00:06:28: Hanne: ”What about Katrine? 
+ 00:06:28: Torben: "What's about Katrine?"
+ 00:06:30: Hanne: "Aren't her future plans more interesting now that Nyborg has left politics?"
+ 00:06:35: Ulrik: ”Well, so you can just do anything you like, and come back whenever you want?" 
+ 00:06:37: Hanne: ”You can if you're good enough.”
+ 00:06:38: Torben: ”Just be quiet for a moment. We have to get on with that novel at 8.30 PM, "Honor, That's What I Manage."
+ 00:06:44: Alex: ”I'm sorry to say it, but that new "18" host you downloaded onto the web news, looks a bit like the fat girl in class."
+ 00:06:50: Torben: ”Yes. After the Katrine business, the schedule is completely fucked. I don't really know what to do."
+ 00:06:58: Alex: ”But yesterday we say Birgitte Nyborg say goodbye to Danish politics. Then I'm thinking..."
+
+ 00:07:04: Torben: ”Katrine Fønsmark should be back, that's what I'm working on, I'm doing everything I can."
+ 00:07:13: Alex: ”It has to be first priority, Torben."
+ 00:07:06: Torben: ”Det er da det det skal.”
+ 00:07:20: Birgitte: ”It's the same as when I moved in. Of course, it will have to be painted. What if I stopped it at the end of this month?"
+
+ 00:07:31: Birgitte: ”Good, yes, I'll be back, thanks. Hi.”
+ 00:07:35: Magnus: ”Are we moving?”
+ 00:07:36: Birgitte: ”I'm at least examining a few things, darling.”
+ 00:07:38: Magnus: ”You didn't think to ask how I feel about it?”
+ 00:07:41: Birgitte: ”I was planning on telling you about it calmly, after I knew what's going to happen.”
+ 00:07:45: Magnus: ”I don't want to move. Mom says we have to move.”
+ 00:07:49: Birgitte: ”I didn't, I said I'm examining a few things, but yes, it may well be that we can't afford to stay here much longer."
+
+ 00:07:53: Laura: ”You also said that when we moved in, right? That is was only temporary?"
+ 00:07:58: Laura: ”We rent this house, we don't own it, Magnus.”
+ 00:08:00: Magnus: ”Bummer.”
+ 00:08:10: Laura: "There is an Erik Hoffman at the door."
+ 00:08:16: Birgitte: ”Hoffman? You don't get a visit from the New Right every day. 
+ 00:08:19: Erik: ”I'm not here on behalf of the party, but as myself. I saw your interview yesterday and it affected me profoundly. Regarding the deportation law.”
+ 00:08:29: Birgitte: ”You agree with me?”
+ 00:08:30: Erik: ”It was very brave, what you did. I wanted to acknowledge that.”
+ 00:08:34: Birgitte: ”Erik, you just voted in favor of that law.”
+00:08:35: Erik: ”I'm the vice-chairman. You know how things are.”
+ 00:08:46: Birgitte: ”Thank you very much.”
+ 00:09:07: Jeremy: ”So here I am, a wonderful continental breakfast.”
+ 00:09:12: Birgitte: ”Where are you?”
+ 00:09:13: Jeremy: ”Frankfurt. Can't we meet so we can eat properly?”
+ 00:09:19: Birgitte: ”I'm sorry, I can't right now.”
+ 00:09:21: Jeremy: ”I can come to you. Going to be in Helsinki for a few days, guess I can stop by Copenhagen.”
+ 00:09:30: Birgitte: ”Right.”
+ 00:09:35: Jeremy: ”Not really here, are you? What's going on?”
+ 00:09:39: Birgitte: ”Just making my mind up.”
+ 00:09:43: Birgitte: ”Big decisions.”
+ 00:09:47: Jeremy: ”You take your time. In the meanwhile we can share my condinental breakfast over Skype.”
+
+ 00:09:58: Alex: ”Fønsmark.”
+ 00:10:03: Alex: ”Funny, we were just talking about you. I'm really looking forward to having you back."
+ 00:10:08: Katrine: ”Yes, Torben left a message but I haven't called back yet.”
+ 00:10:14: Alex: ”Would you like to have a glass of wine?”
+ 00:10:16: Katrine: ”I can't, I have to go.”
+
+ 00:10:18: Alex: ”Another time, perhaps.”
+ 00:10:20: Alex: ”We'll see.”
+ 00:10:37: Katrine: ”It's Katrine, I wanted to drop off the last folder, if you're at home.”
+
+ 00:10:43: Katrine: ”Where are you?”
+ 00:10:55: Katrine: ”There you go.”
+ 00:10:55: Birgitte: ”Thanks.”
+ 00:10:57: Birgitte: ”What are you going to do now, return to TV1?”
+ 00:11:00: Katrine: ”I suppose so. You did well on the news, yesterday.”
+ 00:11:06: Katrine: ”Take care.”
+ 00:11:07: Birgitte: ”Yes, you too.”
+ 00:11:12: Birgitte: ”Katrine.”
+ 00:11:15: Katrine: ”Yes."
+00:11:16: Birgitte: ”There's something I want to show you."
+ 00:11:29: Birgitte: ”Well, this is it.”
+ 00:11:34: Katrine: ”What is this?”
+ 00:11:37: Birgitte: ”This is my place.”
+ 00:11:53: Katrine: "You want to create a new party?"
+ 00:11:58: Katrine: ”A new moderate party?”
+ 00:12:00: Birgitte: ”The Moderates have gradually turned into a liberal bourgeois party.”
+ 00:12:03: Katrine: ”So you want to recruit the best Moderates who don't want to have dirty hands?”
+ 00:12:05: Birgitte: ”No, I want the Danes themselves, this has to be a project from and for the people.”
+ 00:12:09: Katrine: ”People don't care about politics. The number of politicians has been in freefall for 25 years. One in five Danes even think democracy should be replaced by a different form of government."
+ 00:12:18: Birgitte: ”No, it's one in ten, but that's bad enough. I read that report well. Want some coffee?”
+ 00:12:23: Katrine: ”Yes, please.”
+ 00:12:30: Katrine: ”It's great.”
+ 00:12:31: Birgitte: ”No, it's not great, it isn't anything. It's just a few ideas on a whiteboard.”
+
+ 00:12:40: Birgitte: ”What do you really think?”
+
+ 00:12:45: Katrine: ”With all due respect, it's been a long time since you won that landslide victory for the Moderates and became prime minister.”
+
+00:12:53: Birgitte: ”So you think I lost my touch with the people?”
+ 00:12:55: Katrine: ”18 months ago, I was buying 75,000 krone watches for you. You're far from those you would like to preach at, and far from that woman who was a bit overweight and said things the way they were."
+ 00:13:03: Birgitte: ”Milk?”
+ 00:13:04: Katrine: ”Thank you.”
+ 00:13:12: Birgitte: ”Do you think I can get this up and running?”
+ 00:13:14: Katrine: ”If you pressure enough of the right people.”
+ 00:13:16: Birgitte: ”Who are the right people?”
+ 00:13:21: Grethe: ”Hey, sweetheart. It went well?”
+ 00:13:23: Katrine: ”What went well?”
+ 00:13:24: Grethe: ”Saying goodbye to Brigitte, then taking over TV1?”
+ 00:13:26: Katrine: ”I haven't gotten around to that yet.”
+ 00:13:29: Grethe: ”Is something wrong?”
+ 00:13:30: Katrine: "No, quite the contrary. Mom, I think I need to help Birgitte Nyborg start a new party. "”
+ 00:13:36: Grethe: ”In your free time?”
+ 00:13:37: Katrine: ”No, it'll be full time. We'll have to start a new party for the first time in I don't know how many years."
+ 00:13:42: Grethe: ”Will you get paid?”
+ 00:13:44: Katrine: ”I'll have to find out, but I'll be fine.”
+ 00:13:46: Grethe: ”Do you need money? A real estate guy showed up claiming you were three months behind on utilities."
+ 00:13:51: Katrine: ”We've been busy. Do you realize how big this is? A new party, with the former prime minister leading it? That's the first time ever in Danish history.”
+ 00:13:58: Grethe: ”I have to catch my train.”
+ 00:14:01: Katrine: ”What I just said was confidential, you shouldn't...”
+ 00:14:03: Grethe: ”Kasper has Gustav until Thursday. Should I come back Thursday afternoon?”
+ 00:14:08: Katrine: ”Thanks.”
+ 00:14:08: Grethe: ”Love you.”
+ 00:14:09: Katrine: ”Love you too.”
+ 00:14:10: Grethe: ”Remember they're coming to dinner towmorrow, Kaspar and Gustav."
+ 00:14:14: Mia: ”So the angle is that they're going to rush through the third treatment of the loan, right?”
+00:14:20: Torben: ”Exactly.”
+ 00:14:24: Toben: ”It's important that the deportation law comes before the feature on the Ministry of Agriculture.”
+ 00:14:31: Alex: ”I came straight from a board meeting. We are about to discuss it in length on TV1."
+ 00:14:38: Alex: ”Are you aware that you news folk here have a tendency to focus on unsuccesful people?”
+ 00:14:45: Alex: ”Yesterday, you chose to run an extremely negative story about the expulsion of three migrant boys, while TV2 chose to focus on Hesselbo, who's about to get major laws passed. Now, that's a success story.”
+ 00:14:55: Torben: ”But surely, it's also relevant to talk about people who get stuck because of that law? Men det er vel også relevant at fortælle om de mennesker der kommer i klemme i forbindelse med lovgivningen. You think we should push our profile in a more conformist direction?”
+ 00:15:05: Alex: ”No, it's not about politics. What about Katrine, have you heard from her?"
+ 00:15:07: Torben: ”Haven't heard from her yet.”
+ 00:15:10: Alex: ”Well, I did talk to her. She seemed very eager, so you won't have to press her much more."
+ 00:15:17: Torben: ”You spoke with Katrine?”
+ 00:15:20: Torben: ”We agreed I'm the boss here at the news, right? So I'm the one who hires and fires people. It's a little hard to do my job if management comes running down all the time, interfering with my responsibilities.”
+
+ 00:15:37: Alex: ”Good speech again, Torben.”
+ 00:15:40: Alex: "We'll see.”
+ 00:15:45: Reporter: ”Don't you think it's a problem that the new deportation law might steer Denmark on a collision course with human rights?”
+ 00:15:50: Katrine: ”So you're still answering questions concerning the Danes' sense of justice."
+ 00:15:53: Hesselbo: ”No, I think we have to take the Danes' sense of justice into account on this matter. It's an unfortunate fact that there are many problems with young immigrants.”
+ 00:16:10: Torben: ”Am I interrupting?”
+ 00:16:11: Katrine: ”No, come in.”
+00:16:14: Torben: ”No, it'll just take a moment. I just wanted to say that you're guaranteed to get lots of offers, and you fully deserve it because you're so fucking good. I just wanted to start a dialogue with you on this. We could, for example, start by giving you a raise.”
+ 00:16:32: Katrine: ”I still have to tell you that...”
+ 00:16:33: Torben: ”I'm not asking you to decide right now. I understand what you're saying.”
+ 00:16:38: Katrine: ”No, you don't.”
+ 00:16:39: Torben: ”Stop it, I don't need an answer now, just sleep on it, think about it. You just need to know that we're willing to negotiate with you. I know I haven't been here before, but I'm here now."
+
+ 00:16:56: Torben: ”Damn it. I think you should just come back. Call me, okay?”
+ 00:17:15: Birgitte: ”Did you see the news? They've been treating that law for three days now, it's definitely sloppy legislation. Tomorrow you'll have to drop by parliament, the Secretariat has some regulations for you on the allocation of party funding."
+ 00:17:26: Katrine: ”Okay.” 
+ 00:17:34: Man: ”As you can see it gets divided between 3 and 4 members.”
+ 00:17:37: Katrine: ”Okay, thanks a lot.”
+ 00:17:41: Bent: ”Well, already back on the job?"
+ 00:17:43: Katrine: ”Yeah, jobs and jobs, but it's good enough, seeing as we're starting something new. New to me, at least, you and Birgitte are probably in control a bit more.”
+ 00:17:50: Bent: ”Of what?”
+ 00:17:51: Katrine: ”The new party.”
+ 00:17:55: Katrine: ”Didn't she...? I thought you...”
+ 00:17:59: Bent: ”No. She simply did not."
+
+ 00:18:03: Katrine: "Why don't we just go out sometime?"
+ 00:18:04: Bent: ”You'll have to excuse me, I have a meeting with my party."
+ 00:18:22: Katrine: ”I met Sejrø again.”
+
+ 00:18:29: Birgitte: ”No, Katrine, you didn't?”
+
+ 00:18:30: Katrine: ”I was sure he knew.”
+
+ 00:18:34: Birgitte: ”Sejrø just had his 40 year anniversary in the Moderate Party this spring. Regardless of whether he's vulnerable right now because he helped me against Kruse, he's still part of the Moderates."
+ 00:18:44: Katrine: ”I wasn't thinking."
+ 00:18:45: Birgitte: ”You have to understand what it means to be a party member. I'm an unbelievable Moderate right now. Bent thinks I backstabbed them. He would have been told, eventually, but I'd have liked to tell him in the right way, at the right time.”
+ 00:18:58: Katrine: ”Hadn't you thought of him becoming a new member?”
+ 00:19:02: Birgitte: ”I couldn't do more than hope for his blessing, I think.”
+ 00:19:08: Birgitte: ”Well - he has a temper but he always turns into the good old guy eventually."
+ 00:19:11: Birgitte: ”I'm thinking of a core of 4-5 MP's, I would like you to ask Nete what she thinks."
+ 00:19:17: Katrine: ”She's probably happy for you.”
+ 00:19:20: Birgitte: ”Yes, but she's also extremely ambitious and diligent, and writes surprisingly well."
+00:19:29: Birgitte: ”Yeah, there you are! Hey Bent.”
+ 00:19:44: Bent: ”Tell me what's going on.”
+ 00:19:46: Birgitte: ”I know you got to know about it in a completely wrong way."
+ 00:19:50: Bent: ”I saw you just the other day. Why didn't you talk to me about these ideas? I know that we lost, but we should be able to talk. You want to start a new party? It's completely insane. You've been a Moderate prime minister.”
+
+ 00:20:08: Birgitte: ”I can no longer vouch for the Moderates."
+ 00:20:11: Bent: ”Influence will cost you, and you've also paid the price when you were PM.”
+ 00:20:16: Birgitte: ”I never compromised human rights, which is one of the most fundamental values of the Party. Now, they're effectively helping the government to adopt a -to put it mildly- flawed legislative package that'll allow us to throw people out of the country for trivial offenses. Do you think that's okay?" 
+
+ 00:20:30: Bent: ”You don't just move on because it's not fun anymore. It's your party.”
+ 00:20:36: Birgitte: ”I'm loyal to the idea, not the institution. How can you support a man like Kruse?”
+ 00:20:43: Bent: ”The Moderates changed leadership many times and some of them even return, but you'll have to keep on fighting.”
+ 00:20:50: ”I tried.”
+ 00:20:52: ”And now you'll avenge yourself by trying to destroy the party?"
+ 00:20:55: Birgitte: ”No, no, it's not about revenge. Do you know why I traveled so much after the change of government? I couldn't bear to be in this country, to know what's going on but to have no influence."
+ 00:21:16: Bent: ”I beg you not to do it. You hear what I'm saying? This is serious.”
+ 00:21:26: Birgitte: ”I already did. It already started.”
+ 00:21:32: Bent: ”Then you should no longer consider me your friend.”
+ 00:21:42: Katrine: ”Have you set up a meeting with Jon Berthelsen?”
+ 00:21:44: Birgitte: ”With the support he gave me during the election, he can't have it easy in the Moderate Party now, and should therefore be able to see the benefits of coming over to us. But after meeting Bent today, I always started to doubt. I've never seen him act like that before. So personal. Is this really so wrong? Unfaithful?"
+ 00:22:20: Birgitte: ”From now on, we have to be very careful who to tell what and when. This'll blow up like a bomb inside the Castle. I need to know I can count on you.”
+
+ 00:22:32: Katrine: ”You can.”
+ 00:22:34: Birgitte: ”No one's interested in a new middle party. Neither right nor left, we'll come and steal their seats. Expect it to get ugly.”
+
+ 00:22:41: Katrine: ”I'll go all the way.”
+ 00:22:46: Katrine: ”Yes, come in.”
+ 00:22:51: Kasper: ”I heard you and Birgitte Nybord are founding a new party? You'll hear a story about it tomorrow in Juul and Friis.”
+ 00:23:02: Katrine: ”What? You can't...”
+ 00:23:03: Kasper: ”It's a joke. Sorry. Listen.”
+
+ 00:23:12: Katrine: ”Shut up, you frightened me. My mother must've told you, of course. It isn't crazy, right? I actually think that the time is right for it."
+ 00:23:23: Katrine: ”What are you saying, think it's a good idea? A new party?"
+ 00:23:25: Kasper: ”Yes...”
+00:23:38: Katrine: ”We all agreed it was a good idea over the dinners we used to have, remember?”
+ 00:23:44: Kasper: ”Yes. I remember.”
+ 00:23:50: Katrine: ”Kasper.”
+ 00:23:53: Kasper: ”I also know experts say that it's important for Gustav that his parents are able to talk to each other."
+ 00:24:01: Katrine: "It's just a glass of wine."
+ 00:24:07: Kasper: ”I think it's best if I just check out Gustav before he falls asleep.”
+
+ 00:24:10: Katrine: ”Yes, he is really tired. Good.”
+ 00:24:17: Kasper: ”It really looks nice here.”
+ 00:24:18: Katrine: ”Thank you.”
+ 00:24:26: Kasper: ”Hey, little man, you wanna go home?”
+ 00:24:46: Ulrik: ”And there's our rare visitor.”
+ 00:24:50: Katrine: ”Yes, hi. Just wanted to see if Torben's here?”
+ 00:24:54: Ulrik: ”He's gone. I think his wife demanded that he'd spend more time at home. It's a little late for a job interview, isn't it? But I have to be in make-up."
+ 00:25:05: Katrine: ”Yeah, have fun.”
+ 00:25:08: Ulrik: "It was good to see you."
+ 00:25:09: Katrine: ”You too.”
+ 00:25:12: Alex: ”Miss Fønsmark.”
+ 00:25:13: Ulrik: ”You know what, Torben is gone.”
+ 00:25:15: Alex: ”Yeah, enjoy your work.”
+ 00:25:17: Alex: ”So you're back?”
+ 00:25:18: Katrine: ”No, I just needed to see if Torben was here."
+ 00:25:22: Alex: ”Didn't you promise to have a glass of wine with me?"
+ 00:26:40: Katrine: ”Good morning. Yes. I was on my way to the door.”
+ 00:27:10: Katrine: "I'm sorry, but I ..."
+ 00:27:11: Alex: "Thank you for a wonderful evening."
+ 00:27:22: Phillip: ”Erik Hoffmann?”
+ 00:27:23: Birgitte: ”Yes, he worked at the Copenhagen Business School with you.
+ 00:27:26: Phillip: ”Yes, he taught corporate law, I only have good things to say about him. Jo, han underviste i erhvervsjura, jeg har kun gode ting at sige om ham. He's very dutiful, correct and loyal. What?”
+00:27:35: Birgitte: ”He showed up at my house the other day, after seeing my interview on TV1, to say that I said some very courageous things, in his opinion."
+ 00:27:42: Phillip: ”It doesn't surprise me. He's married to a woman from Ethiopia, who works as a lawyer in London. It was extremely difficult to get a residence permit for her. He was so desperate that he at some point even considered moving to Malmö."
+
+ 00:27:57: Birgitte: ”Moving to Malmö? To avoid laws he voted for himself? Unfortunately, he hasn't voiced his concern inside the Castle."
+
+ 00:28:06: Phillip: ”No, he's very distraught, but tell me what it is you need to talk to him about?"
+
+ 00:28:14: Birgitte: ”I'm about to start a new party.”
+ 00:28:22: Phillip: ”What's up with you?”
+ 00:28:24: Birgitte: ”Politics. A new centrist party.”
+ 00:28:30: Phillip: ”You're insane.”
+ 00:28:34: Birgitte: ”I'm what?”
+ 00:28:36: Phillip: ”Of course you need Erik to give your project legitimacy in the center. It'll scare the crap out of Kruse.”
+ 00:28:50: Birgitte: ”It's very hush hush.”
+ 00:28:52: Phillip: ”So that's why you seemed so happy.”
+ 00:29:15: Erik: ”New Right is my party.”
+ 00:29:16: Birgitte: ”As a party member, you are only bound by your personal convictions, Grundlovens article 37, paragraph 7, that's what you swore to hold up when you started. Just that."
+ 00:29:25: Erik: ”I think you're very brave to come here and talk to me, but I'm sorry, I'll have to say no thanks."
+ 00:29:35: Birgitte: ”I'm sorry about that.”
+ 00:29:38: Erik: ”Of course this stays between us. Farewell.”
+ 00:29:44: Birgitte: ”Farewell.”
+00:30:04: Katrine: ”Hey Nete.”
+ 00:30:06: Nete: ”Hi Katrine. Thanks for recently.”
+ 00:30:09: Katrine: ”Yeah, it was a tough weekend.”
+ 00:30:14: Katrine: ”Besides, Birgitte sends her greetings. Jeg skulle forresten hilse dig fra Birgitte. You know how much she appreciated your position.”
+ 00:30:18: Nete: ”You saw her?”
+ 00:30:19: Katrine: ”She and I were just making plans after we lost the election."
+ 00:30:24: Katrine: ”This is confidential, right?”
+ 00:30:25: Nete: ”Yes, okay.”
+ 00:30:29: Katrine: "What would you think if I said that we thought of some ideas for a new group?"
+ 00:30:33: Nete: ”Plotting a new match for chairman? Can you do that? I wouldn't have the guts.”
+ 00:30:37: Katrine: ”Not inside the Moderates. A group outside of it."
+ 00:30:41: Nete: ”Outside the Castle?”
+ 00:30:42: Katrine: ”Yes, outside but not out of it. A collection of like-minded people, homeless politicians. "
+ 00:30:51: Nete: ”A coffee club?"
+ 00:30:52: Katrine: "No, more a kind of forum for those who believe Danish politics should change."
+ 00:30:57: Nete: ”An independent political assembly outside the castle?"
+00:31:00: Katrine: ”Exactly.”
+ 00:31:01: Nete: ”A think tank."
+ 00:31:02: Katrine: ”No.”
+ 00:31:05: Katrine: ”I simply have to make sure that you keep quiet about this."
+ 00:31:06: Nete: ”I won't refer to this conversation.”
+ 00:31:09: Katrine: "Birgitte Nyborg is about to start a new party."
+ 00:31:12: Nete: ”You should have just said so."
+
+ 00:31:14: Katrine: ”Are you interested?"
+ 00:31:15: Nete: ”I'll join.”
+ 00:31:18: Nete: ”Hello.”
+ 00:31:18: Birgitte: ”Hello.”
+ 00:31:19: Nete: ”This is a really cool place. It totally looks like the start of the Coldplay video "Every Teardrop Is a Waterfall." 
+ 00:31:34: Birgitte: ”Won't you sit down, Nete?”
+
+ 00:31:38: Birgitte: ”Welcome here. You're the first MP in our small gathering.”
+ 00:31:44: Nete: ”Katrine probably isn't here as a politician?”
+ 00:31:46: Katrine: ”No, I'm her counselor and media spokesman. All in all, we're trying to keep a low profile because I've been on tv so much already."
+ 00:31:52: Birgitte: ”So far we really only consist of me as a politician, and now you."
+ 00:31:55: Nete: ”And I haven't told anyone. Not even my own dog.”
+ 00:31:58: Birgitte: "It's necessary to keep it that way for a while. If it becomes uncomfortable for you to be a member of the Moderates, you must remain independent until we make it public."
+
+ 00:32:05: Nete: ”I don't feel like I owe them anything. Kruse's been ice cold to me since the party congress, and it might actually be a good thing if I go to party meetings so I know what goes on there.”
+ 00:32:14: Birgitte: ”We've also approached Jon Berthelsen, but we're afraid he won't join us as we haven't heard from him since.”
+ 00:32:18: Nete: ”Good. No, I'm sorry."
+ 00:32:21: Birgitte: ”No need to apologize?”
+
+ 00:32:24: Nete: ”He's not to be trusted. I say this with all due respect, but if you accept him he'll do everything in his power to undermine you. I'd give him a year to work himself up to chairman of the party.”
+ 00:32:35: Birgitte: ”Then maybe we shouldn't push him anymore.”
+00:32:41: Post: ”Birgitte Nyborg?”
+ 00:32:42: Birgitte: ”Yes? Good, there's furniture from my ex-husband. It's from one of the unused departments of the bank."
+ 00:32:57: Torben: ”We don't want a substitute host who doesn't know the capital of Albania, do we?" 
+ 00:33:00: Pia: ”Tallinn.” 
+ 00:33:02: Torben: ”It's a damn good thing you're not the replacement host, then. I won't allow him to host the 8.30 PM news, he can have the web news. What about her...”
+ 00:33:10: Pia: ”The fat one?”
+ 00:33:11: Torben: ”Yes, but those are your words. Is the list here?
+ 00:33:14: Pia: ”Yes. Haven't you talked to Katrine?”
+ 00:33:15: Torben: ”Yes I have, I visited her at home and really hope she says yes."
+ 00:33:18: Alex: ”I talked to her.”
+ 00:33:22: Torben: ”Have you talked to her? I hope there's some good news?"
+ 00:33:26: Alex: ”I think you can't count on her to fucking return. Not to interfere with your firing and hiring work, of course."
+
+ 00:33:34: Torben: ”Did you visit her privately?
+00:33:35: Alex: ”See and be seen. It certainly was private.”
+ 00:33:44: Hanne: ”They're refusing us access to documents of the Ministry of Food.”
+ 00:33:50: Torben: ”He's been with her. Yeah, Alex Hjort had sex with Katrine."
+
+ 00:33:56: Hanne: ”What are you saying?”
+
+ 00:33:58: Torben: ”I'm just repeating what he told me just now."
+ 00:34:00: Hanne: ”No, Torben, goddamn it. Did she refuse to come back?"
+ 00:34:05: Torben: ”Try to listen, with a program director sleeping with a former employee, coming back simply can't happen.”
+ 00:34:10: Hanne: ”Where is she?”
+ 00:34:12: Torben: ”I don't know.”
+ 00:34:13: Hanne: ”What's Nyborg doing? What's Fønsmark doing? Well, damn Katrine.”
+ 00:34:24: Grethe: ”Did Kaspar stay the night? I can see somebody else slept here.”
+ 00:34:32: Katrine: "Try to listen. When I tell you something's a secret, I assume I can trust you.”
+ 00:34:36: Grethe: ”What do you mean?”
+ 00:34:37: Katrine: "Kasper knew everything about the new party."
+ 00:34:40: Grethe: "He's Gustav's father, right?"
+
+ 00:34:41: Katrine: ”He may damn well me, but he works at TV1. He knows God and everyone in the Castle.”
+ 00:34:46: Grethe: "Well. I thought you were 100% comfortable with Kasper."
+ 00:34:50: Katrine: ”That's not what this is about, when I tell you something's a secret, it's a fucking secret, so you shouldn't tell anyone. It's like you don't understand how important this is. Don't, I'll get him myself."
+
+ 00:35:07: Torben: ”Such a fresh pair of guys behind us, now that throwing people out of the country has been made much easier because of the new deportation law. However, many also have criticized this law, calling it sloppiness without real legal authority. Do you agree with that?" 
+ 00:35:21: Kasper: ”That's correct. The government does not want a long public debate about this law.”
+ 00:35:24: Torben: ”Why not?”
+00:35:25: Kasper: ”They're rushing it through because they're not very proud of it. The review period was very brief and TV debates short and fast. And it's all applauded, but of course, they have a majority.”
+ 00:35:33: Torben: ”Exactly. Therefore, the Moderate Party's choice to support this law, was both crucial and deliberate. Is there a divide growing in this party?" 
+ 00:35:42: Kasper: ”Absolutely. So much so, that several of the Moderates refuse to be in Parliament during voting."
+ 00:35:47: Torben: ”Could we even speak of a separatist wing inside the party, after Nyborg failed at the election?"
+ 00:35:51: Kasper: ”I don't think so. I think Jacob Kruse put a firm lid on critical stirring.”
+
+ 00:35:56: Torben: ”Then there's the return of Nyborg, what is she doing now?"
+ 00:36:00: Kasper: ”It's my impression that Nyborg has completely left Danish politics.”
+ 00:36:04: Torben: "Good. Thank you very much. Those were the words of the evening, Kasper.”
+ 00:36:08: Kasper: ”Torben Friis. Thanks for now.”
+00:36:30: Erik: ”I do think we need to tighten up on immigrants and refugees. Especially when you consider the completely irresponsible policy the Freedom Party came up with throughout the 90s, in one minority government after another. People just swim across the border. We can't afford it. Economically, socially, culturally. We were peasants, which we fucking still are. 
+But it happens quietly. You can feel the screws turning, the law becomes tighter and tighter, and finally we forget that legislation is also who we are. We are the law. So there I am, reading the small print of laws I helped to implement, and I damn well can't recognize myself in it. So I have a fucking problem. My wife's black. And we have a son, Emil. She doesn't want him wearing hoodies because she's afraid he'll look like one of those immigrant boys from Mjølnerparken. 
+And so he stood there in the fucking morning, he'd even saved up for one. Why can't he get what all the other boys have? It's hard to explain to him that different rules apply to him, than to others. And then, God help me, I just helped to adopt this new law. A law with which I risk my own son becoming an indirect sacrifice. You have to forgive me."
+
+
+
+00:38:13: Birgitte: ”No, don't apologize. But what are you going to do?"
+ 00:38:31: Birgitte: ”Maybe we should formulate it here, but it's good, right?”
+ 00:38:44: Birgitte: ”Welcome, Erik.”
+ 00:38:45: Erik: ”Yeah, thanks. I'll be alright here.”
+ 00:38:49: Birgitte: ”Do you drink coffee or tea?”
+ 00:38:50: Erik: "Tea would be nice."
+ 00:38:52: Katrine: ”Good day, welcome. Go ahead, sit down."
+ 00:39:06: Katrine: ”Well, maybe I can help.”
+ 00:39:12: Nete:  "How's the New Right?"
+ 00:39:15: Erik: ”I'm certainly not going to tell you."
+ 00:39:20: Birgitte: ”For starters, because we have a lot of former Moderates, I would like to emphasize that around this table we're all equal.”
+
+00:39:30: Jon: ”Hi.”
+ 00:39:31: Birgitte: ”Jon? I thought you weren't interested?"
+ 00:39:34: Jon: ”I just want to hear what it is you have to say. And Erik Hoffman just came to see as well.”
+ 00:39:45: Katrine: "Hi Jon, welcome."
+ 00:39:47: Jon: ”I have to say, in terms of roles, I assume since I was here from the start, I will be co-founder."
+ 00:39:56: Birgitte: "Everyone around this table is co-founder."
+ 00:39:58: Erik: ”When do we make it public?"
+ 00:40:00: Birgitte: ”I know playing games is uncomfortable, but you'll have to keep at it just a little longer. Becoming independent in your position will be too suspicious. We'll first have to set out clear key issues, and therefore we also need a representative of the left wing. I'll just have to be that for now.”
+
+ 00:40:34: Sejrø:  "We have some ideas we would like to share with you."
+00:40:39: Kruse: ”Holy shit, that's wholly different from than prime minister!”
+ 00:40:41: Birgitte: ”We could meet somewhere else, Bent.”
+ 00:41:20: Kruse: ”I see it as my duty as party chairman to try to build bridges and heal wounds after the national meeting.”
+ 00:41:28: Birgitte: "So you came to give me your blessing?"
+ 00:41:30: Kruse: ”I've come to offer you a position of your choice within the party. Of course, you'd then be a candidate for the Moderates. Who else could I pick?"
+ 00:41:41: Bent: "And there's more. Jacob will offer you the vice-presidency."
+ 00:41:45: Birgitte: ”Good benefits?”
+
+ 00:41:47: Kruse: ”With nice benefits, but with a boss as well.”
+ 00:41:51: Bent: ”We'll have to discuss the practical matters, but can't you see that the Moderates are going to be insanely powerful? Please come home.”
+ 00:42:02: Birgitte: "That's what's the matter, it's not my home anymore. The Moderates are no longer the party I once joined. The developments of the last two years have completely undermined the moderate project. The most watched video of the past few weeks is of you shaking hands with Hesselbo. The Moderates have been supporting the right wing.”
+ 00:42:26: Kruse: ”So that's your answer?”
+ 00:42:29: Birgitte: ”Yes, if the offer is to come back and have myself subjugated, the answer is no.”
+ 00:42:35: Kruse: ”Good. Then there's not much more to talk about. I hope you realize that when we can't work together, we're opponents. There is no middle ground in the current political landschape. I can promise you that you'll have to fight.”
+ 00:43:02: Birgitte: ”You'll have my resignation by email within the hour. I cease to be a member of the Moderate Party."
+ 00:43:30: Birgitte: ”Everyone must be called in. We have to write a press release and call a press conference tomorrow, do it now. It didn't go well, but I can't talk about it right now."
+
+ 00:43:42: Jon: ”Yeah, but try to listen. You have to promise me that there'll be progress. It has to be done. Come back to me before you send it."
+
+ 00:43:53: Birgitte: ”I don't know what to start with.”
+ 00:43:54: Katrine: "What do we say, 'Birgitte Nyborg has started a new party, so we...'”
+00:43:58: Jon: ”Yes, Birgitte Nyborg and leading Moderates, right?”
+ 00:44:00: Birgitte: ”Birgitte Nyborg and leading members of parliament have joined forces for a new party."
+ 00:44:03: Katrine: ”And what's our name?”
+ 00:44:04: Birgitte: ”The press release doesn't need to say.”
+ 00:44:08: Katrine: ”Good, I'll send it then.”
+ 00:44:08: Birgitte: ”But we have to figure it out. What shall we name ourselves?”
+ 00:44:10: Nete: ”What about the Center Party?”
+ 00:44:12: Jon: ”The Independent?”
+ 00:44:13: Nete: ”No, that's irresponsible.”
+ 00:44:14: Jon: ”Green Center.”
+ 00:44:16: Nete: ”No, that's too 90s, people won't want that. What about The New Moderates?”
+ 00:44:20: Birgitte: ”No, we're not just some side project of the Moderates.”
+ 00:44:22: Jon: ”Democratic Center.”
+ 00:44:26: Birgitte: ”I really like the word democracy is in there.”
+ 00:44:28: Nete: ”The Free Democrats, or is that still too liberal?”
+ 00:44:33: Birgitte: ”Yeah, sorry. The New Democrats. We can all agree that we're new, and we're democrats.”
+ 00:44:38: Nete: ”That's very good.”
+ 00:44:40: Erik: ”Neither very right nor very left. Clear. Fine.”
+ 00:44:43: Birgitte: ”Jon?”
+ 00:44:47: Katrine: ”New Democrats.”
+ 00:44:49: Birgitte: ”That's the name of our party.”
+ 00:44:51: Pia: ”Okay, let's all meet over here. Everything indicates Nyborg is about to start a new party.”
+ 00:44:56: Ulrik: ”Well, can we do get it done?”
+
+ 00:44:57: Hanne: "The Moderate's press chief is calling around and spreading rumors, we have nothing concrete."
+00:45:01: Torben: "So, we might expect a press release. If so, we'll bring the story tomorrow morning."
+ 00:45:03: Hanne: ”It's Katrine. Yes? It's true? Good. Thank you, good luck. Press conference at noon tomorrow at the Castle, our girl Katrine has just become their press chief.”
+00:45:16: Torben: ”I can't believe it, I must say.  Try to find out who's busy in the morning, we have to have the Castle fully staffed from early on, and there'll have to be an extra broadcast.
+
+ 00:45:22: Ulrik: ”If we break it now, we can follow up on it later.”
+ 00:45:24: Torben: "Not until we have a press statement."
+ 00:45:25: Ulrik: ”Why not? Sorry, but it's fucking news.”
+ 00:45:27: Torben: ”Look, it might be different than we expect."
+ 00:45:30: Ulrik: ”Then I want Birgitte Nyborg tomorrow night, in an exclusive.”
+ 00:45:31: Torben: "It's a deal."
+ 00:45:42: Katrine: "Are you still up?"
+ 00:45:47: Grethe: ”"He's got conjunctivitis again so he should stay home tomorrow. Do you want me to take him? That's fine. But I have to admit, I'm starting to miss your dad a little."
+
+ 00:46:03: Katrine: ”I thought this was something you wanted to do.”
+ 00:46:04: Grethe: ”It's half past eleven at night.”
+ 00:46:06: Katrine: ”I'm sorry I didn't call.”
+
+ 00:46:07: Grethe: ”What did you say?”
+ 00:46:08: Katrine: ”I'm sorry I didn't call.”
+
+ 00:46:12: Grethe: ”You have a small child.  I'm sorry, but sometimes it's like you don't fully realize it yet.”
+ 00:46:20: Katrine:  "Mom, will you please stop."
+ 00:46:22: Grethe: ”I mean it. It's as if you haven't understood that you can't live the same life you had before you got Gustav. Your home doesn't function without someone taking care of it for you. And your finances. Dad and I even helped you when you had a successful job on TV1. Now you're into some political project where you don't even know if there's any money in it. Excuse me, but sometimes I really have a hard time seeing who's really in charge here.”
+
+ 00:46:48: Katrine: ”Yeah, so I have this as well. Perhaps it's because of you constantly breathing down my neck. You make me feel guilty all the time.”
+ 00:46:57: Grethe: ”I'm just trying to help you because you've got your mind elsewhere.”
+
+ 00:47:00: Katrine: ”No, I haven't. But I do things my own way, and I won't apologize for having a career."
+ 00:47:06: Grethe: ”Then there's no fucking telling you that you should stay at home, right? It's about priorities. You know, sometimes you behave yourself as a stupid spoiled little child. And maybe that's why you think it's so damn hard to be a mother, because in your head you're still a little kid."
+ 00:47:36: Katrine: ”Go home. I mean it. Go home.”
+ 00:47:45: Grethe: ”I mean...”
+ 00:47:46: Katrine: ”No, you're absolutely right. Thanks for all the help, Gustav and I will be fine from now on."
+ 00:48:01: Katrine: ”Yeah, but my mom wasn't able to. Kasper's at work. He's got an eye infection so I can't... okay, thanks.”
+ 00:48:16: Katrine: ”What's up, baby? Come here.”
+ 00:48:36: Jon: ”Yes, this is it.”
+ 00:48:38: Nete: ”Okay, so now you opted to have your child at work?"”
+ 00:48:41: Katrine: ”Yes.”
+ 00:48:44: Birgitte: "Are you okay?"
+ 00:48:45: Katrine: "I haven't slept all night."
+ 00:48:47: Birgitte: "Welcome to the club."
+ 00:48:53: Katrine: "No, he just fell asleep, so ..."
+ 00:48:55: Hanne: ”The officer's room (?) has just announced that the press conference will be moved to one of the large rooms here at Christiansborg, due to overwhelming interest. It appears that a whole lot of journalists showed up."
+ 00:49:04: Ulrik: ”So when the former chairman and former prime minister of the Moderate Party  forms a new party, it's quite an event.”
+
+ 00:49:10: Hanne: ”You can say that again. And we're looking forward to hearing reactions from other parties.”
+ 00:49:14: Ulrik: ”What is this new party? Didn't you hear rumors, Torben?”
+ 00:49:16: Torben: ”That's right, one said it'd be named Center Party, and the other said it'd be Democratic Center."
+ 00:49:33: Erik: ”I have written my resignation from the party to Yvonne Kjær. I can't send it.”
+
+ 00:49:41: Birgitte: ”Yes you can, Erik. Look, in a moment it's official, and it'll all become much easier. Erik, just press send.”
+
+ 00:49:55: Katrine: ”Then it's real.”
+ 00:49:57: Erik: ”I'm sorry.”
+ 00:50:13: Katrine: ”Good morning.”
+ 00:50:13: Katrine: ”Thank you. Ladies and gentlemen, welcome to the New Democrats first press conference Birgitte Nyborg, you started a new party, why?"
+ 00:50:25: Birgitte: ”I did it because I'm so incredibly proud of what we're able to achieve in this country when we're at our best. And because keeping my mouth shut is giving me a very hard time. I can't help but pose some questions to the Denmark I see right now. Are we inhospitable, for example? Are we bigots? Are we arrogant? Did we lose our solidarity? Are we all that, as Danes, as a people? 
+The answer is a resounding no, if you ask the New Democrats, no, we aren't. But it's the image some parts of our legislation draws of us, these years. This is a message we can send out to the world and to each other. We want everyone to be proud of being Danish again, all together.”
+00:51:24: Hanne: ”You were chairman of the Moderates, were you perhaps giving a hint when you said you might be finished with Danish politics?”
+ 00:5:28: Birgitte: ”I would be a bad politician if I dropped my commitments and opinions, the minute I did not get the position I wanted. I know many journalists have difficulties with idealism, but the essence of all this is wanting to change the world."
+ 00:51:41: Hanne: ”Similarly, aren't you just a bunch of ex Moderates who joined forces because no one else wants to play with you?”
+ 00:51:46: Man: ”Aren't you just a Moderate side project, all out of resentment because you lost?”
+ 00:51:52: Birgitte: ”No, we came together because we believe there's no voice to represent... Now, I'd like to present Erik Hoffman, former vice president of the New Right. Nice you were able to push it, Erik.”
+ 00:52:09: Erik: ”Less than two minutes ago, I signed out of the New Right after being a member for 27 years. It hasn't been easy for me, nor for others here at the table, to say goodbye to parties they've been members of for decades.
+And this is not just some petty agenda, it's because we believe that there should be a serious change. As for myself, I reached the limit when I was asked to vote for a law that makes Danish judges decide whether they can throw people out for small offences. And I just don't want to be involved in that.”
+
+
+
+00:52:58: Birgitte: ”In this house, we make laws. The laws on which Danish society is built. And nowadays, we're adopting more and more laws that are dubious because of being at odds with the constitution, human rights and international conventions. Laws are created because of haggling for larger political agreements. You hurry them through because it's simply too embarrassing to discuss them. It avoids that the people are heard, and, ladies and gentlemen, it isn't just sloppy, it's decidedly undemocratic. The most adequate word for democracy is conversation, and the conversation is being silenced. It's what we New Democrats will fight for: to get the conversation going again."
+ 00:54:05: Birgitte: ”Have you seen my bag?”
+ 00:54:07: Nete: ”Try inside the hall."
+ 00:54:12: Man: ”Congratulations.”
+ 00:54:23: Torben: ”Congratulations on your new job. It went well.”
+ 00:54:26: Katrine: ”I was on TV1 just the other day ..."
+ 00:54:27: Torben: "We're ready for an extended interview with Nyborg tonight."
+ 00:54:33: Katrine: ”Im sorry, she can't.”
+
+ 00:54:36: Torben: ”You're sorry she can't? Why not?”
+ 00:54:40: Katrine: ”Because we chose to give the first exclusive to TV2. It's important not to only do friends at TV1."
+ 00:54:48: Torben: ”Yeah, you did at least one friend at TV1. Alex Hjort.”
+ 00:54:58: Katrine: ”I think that's extremely rude.”
+ 00:55:00: Torben: ”It's because you already gave it away to 2, I didn't fucking count on that.”
+
+ 00:55:07: Katrine: ”What are you saying?”
+
+ 00:55:08: Torben: ”Just a tiny bit of loyalty from your side would be in fucking order. And frankly, you're backstabbing me this way."
+ 00:55:32: Bent: ”All the great things you did in politics, you did with me.”
+ 00:55:37: Birgitte: "I know. What do you want me to do?"
+ 00:55:52: Bent: "You can let me be in your new party."
+ 00:56:00: Reporter: ”You've reached 10,000 likes on Facebook this morning. How does it feel?”
+ 00:56:04: Birgitte: ”Fantastic, and first and foremost, it seems that there are many Danes who'd like to be led with different policies.”
+ 00:56:12: Reporter: ”Are you after the post of prime minister?”
+ 00:56:14: Birgitte: ”I'm doing it for infuence, I'm not thinking so much about what office I should sit in."
+ 00:56:18: Alex: ”Hi. How come our rival channel got the exclusive with Nyborg? When one of your former employees is their media advisor?”
+ 00:56:27: Torben: ”You're closer to Katrine than I am.”
+ 00:56:30: Alex: ”You remember what we talked about earlier, right? Last night we had Birgitte Nyborg on TV1 as a beaten woman who'd lost and was about to stop altogether, now we see Nyborg the Winner on 2, in a hugely successful interview. So, we have a problem if you keep giving me loser stories when I want winner stories.”
+ 00:56:54: Birgitte: ”He wants something different for the Moderate Party than I do.”
+ 00:56:56: Reporter: ”One of the sensations at today's press conference was the former vice-president of the New Right surprising ..."
